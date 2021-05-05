@@ -14,12 +14,15 @@ Nếu chưa lái quen, chỉ dám đi đúng tốc độ cho phép thì nên ch�
 
 ## Lùi xe vào chuồng
 1. Step 1: xác định chỗ mình sẽ đậu, tùy vào phía bên phải bị chắn nhiều hay ít mà tiến lên nhiều hay ít. Nếu chưa quen thì cứ tiến sao cho đít xe đến ngang chuồng đậu trở lên
+
 ![image](https://user-images.githubusercontent.com/6410496/117095316-07f88700-ada1-11eb-8821-aa2d91e2d88f.png)
 
 2. Step 2: lái xe max phải, sao cho xe nghiêng sang phải càng nhiều càng tốt.
+
 ![image](https://user-images.githubusercontent.com/6410496/117095341-19419380-ada1-11eb-9314-4c338ef9aa03.png)
 
 3. Step 3: quay sang đằng sau rồi lùi dần hoặc nhìn camera, điều chỉnh bánh lái để lái vào chuồng.
+
 ![image](https://user-images.githubusercontent.com/6410496/117095367-28284600-ada1-11eb-929f-1edaa9b8c634.png)
 
 **Points**
@@ -47,12 +50,15 @@ Trường hợp thứ 2 nếu gặp bạn cũng không cần phải phanh quá g
 ### Chuyển làn ra ngoài
 Chuyển làn từ làn trong ra ngoài nhìn chung tương đối dễ nếu áp dụng phương pháp này:
 1. Step 1: đợi thời điểm xe ở làn bên cạnh đi cao hơn xe bạn thì bắt đầu nháy xi nhan
+
 ![image](https://user-images.githubusercontent.com/6410496/117095470-72112c00-ada1-11eb-9878-adaf97482886.png)
 
 2. Step 2: ngay khi xe bên cạnh vượt xe bạn, lập tức đánh lái 1 cách nhẹ nhàng, đồng thời tăng ga.
+
 ![image](https://user-images.githubusercontent.com/6410496/117095545-979e3580-ada1-11eb-880f-bfc946f2a882.png)
 
 3. Step 3: sau khi qua làn thì tắt xi nhan, chỉnh lại bánh lái
+
 ![image](https://user-images.githubusercontent.com/6410496/117095559-a258ca80-ada1-11eb-88a5-667528b9edde.png)
 
 **Points**
@@ -65,12 +71,15 @@ Chuyển làn từ làn trong ra ngoài nhìn chung tương đối dễ nếu á
 
 ### Chuyển làn vào trong
 1. Step 1: bật xi nhan ngay khi vượt qua xe 2
+
 ![image](https://user-images.githubusercontent.com/6410496/117095583-b00e5000-ada1-11eb-87bd-33249eb5b5f3.png)
 
 2. Step 2: khi đi tới giữa xe 1 và 2, giảm tốc độ về ngang với xe ở làn bên cạnh, giữ xi nhan
+
 ![image](https://user-images.githubusercontent.com/6410496/117095599-bb617b80-ada1-11eb-8a04-1788e87e9c0e.png)
 
 3. Step 3: đánh lái vào trong, có thể tăng tốc thêm 1 chút, thời gian đánh lái tới khi vào hẳn làn là 3~5 giây
+
 ![image](https://user-images.githubusercontent.com/6410496/117095616-c74d3d80-ada1-11eb-80f2-ab0c21afb065.png)
 
 4. Step 4: giảm tốc độ để lấy đủ khoảng cách an toàn
