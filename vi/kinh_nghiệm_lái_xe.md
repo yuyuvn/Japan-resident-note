@@ -63,7 +63,7 @@ Chuyển làn từ làn trong ra ngoài nhìn chung tương đối dễ nếu á
 
 **Points**
 - nếu xi nhan quá sớm có thể khiến xe số 1 giảm tốc độ -> khó nhập làn hơn
-- nếu xi nhan xong không rẽ ngay (VD chờ 3 giây cho đúng sách vở) -> khoảng cách với xe 2 giảm đi sẽ khó nhập làn hơn
+- nếu xi nhan xong không rẽ ngay (VD chờ 3 giây cho đúng sách vở) -> khoảng cách với xe 2 giảm đi sẽ khó nhập làn hơn  
   đánh lái ngay lập tức sau khi xe bên cạnh vượt bạn là key của việc chuyển làn an toàn
 - giảm tốc độ là rất nguy hiểm, nên giữ nguyên hoặc tăng tốc sẽ đảm bảo xe 3 không bị ảnh hưởng -> ko cần 3 giây xi nhan
 - giữ tốc độ cũng giúp xe số 2 không giảm tốc độ cũng ko gặp va chạm gì hoặc nếu xe số 2 không giữ đủ khoảng cách an toàn thì cũng không vấn đề gì.
