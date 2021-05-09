@@ -3,7 +3,7 @@
 [timecar](https://share.timescar.jp/) là dịch vụ cho thuê xe mà bạn chỉ cần đặt trước qua app rồi cầm thẻ ra bãi đậu xe lấy xe. Lái xong đem trả lại ở bãi là được.  
 Không cần tiếp xúc với con người, không sợ bị bắt đền nếu làm xước hay làm móp xe, thủ tục cực kì nhanh chóng.  
 Ngoài ra ở các sân bay có sẵn trung tâm của timeshare thì bạn có thể đến sân bay rồi được chở thẳng ra bãi đậu xe luôn. Khi trả xe cũng được chở ra sân bay. Cực kì tiện lợi.
-Tiền thuê xe phụ thuộc vào thời gian đi thực tế chứ không phải thời gian 予約 nên luôn 予約 nhiều hơn thời gian cần thiết đề để phòng có vấn đề (như tắc đường, chuẩn bị chậm, tìm đường...)
+Tiền thuê xe phụ thuộc vào thời gian đi thực tế chứ không phải thời gian 予約 nên luôn 予約 nhiều hơn thời gian cần thiết đề để phòng có vấn đề (như tắc đường, chuẩn bị chậm, tìm đường...)  
 Bạn nào mới đăng kí nhớ dùng mã giới thiệu `0011-557550` để nhận khuyến mại :3
 
 ![image](https://user-images.githubusercontent.com/6410496/117095253-d7185200-ada0-11eb-942b-4eb2857d77c3.png)
