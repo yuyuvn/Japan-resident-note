@@ -9,6 +9,11 @@ Với người có thu nhập trung bình trở xuống (dưới 1sen man) thì 
 
 Thuế thị dân đóng từ tháng 6 năm 2 ~ tháng 5 năm 3 được tính dựa trên kết quả 源泉徴収票 của năm 1.
 
+Cần gửi về bao nhiêu để được miễn giảm:  
+Theo tài liệu chính thức từ chính phủ Nhật thì không có hướng dẫn giới hạn, tuy nhiên nếu gửi quá ít tiền thì bên phía chính phủ có thể yêu cầu xác minh lại.  
+Thông thường thì 10man/người là mức an toàn.  
+https://www.nta.go.jp/publication/pamph/pdf/kokugaifuyou-QA.pdf
+
 ## Cách tính furusato nozei
 Đối với trường hợp sử dụng 確定申告:  
 Tiền mua furusato (X) trong năm được tính vào năm 1  
