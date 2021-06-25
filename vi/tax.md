@@ -33,6 +33,6 @@ Nếu sử dụng tool trên để đăng kí 確定申告 thì không cần in 
 # TODO
 + tính thuế thu nhập từ fukugyo
 + tính thuế thu nhập từ cổ phiếu
-+ tính thuế thu nhập từ RSA
++ tính thuế thu nhập từ RSU
 + tính thuế thu nhập từ cho thuê nhà
 + tính thuế miễn giảm từ vay ngân hàng mua nhà ở
