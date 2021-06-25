@@ -23,6 +23,7 @@ https://www.furusato-tax.jp/about/simulation
 Tuy trong tool sử dụng 源泉徴収票 để làm ví dụ điền giá trị, tuy nhiên 源泉徴収票 gần nhất bạn có được là của năm ngoái chứ không phải năm nay, trường hợp tăng/giảm lương thì nên tự tính tổng thu nhập thay vì lấy từ 源泉徴収票.
 
 Tool đăng kí 確定申告 (có thể free trial 1 tháng): https://biz.moneyforward.com/tax_return/
+Nếu sử dụng tool trên để đăng kí 確定申告 thì không cần in ấn gì, chỉ cần thẻ mynumber có gắn chip và smartphone là được, không cần dùng tới đống giấy tờ chứng minh từ địa phương gửi cho bạn.
 
 # TODO
 + tính thuế thu nhập từ fukugyo
