@@ -23,8 +23,8 @@ Từ tháng 6 năm 2 -> tháng 5 năm 3, thuế sống sẽ được miễn tr�
 Mỗi tháng sẽ được miễn trừ (X - 2000 - Y)/12 (có thể dùng tool tính thuế thị dân ở trên để tính chính xác số tiền thuế thị dân phải đóng sau khi được miễn trừ)  
 ![image](https://user-images.githubusercontent.com/6410496/123445246-ad4a1180-d612-11eb-81d2-f8c8d1a30894.png)
 
-Cách tính tối đa số tiền mua furusato:
-https://www.furusato-tax.jp/about/simulation
+Cách tính tối đa số tiền mua furusato:  
+https://www.furusato-tax.jp/about/simulation  
 Tuy trong tool sử dụng 源泉徴収票 để làm ví dụ điền giá trị, tuy nhiên 源泉徴収票 gần nhất bạn có được là của năm ngoái chứ không phải năm nay, trường hợp tăng/giảm lương thì nên tự tính tổng thu nhập thay vì lấy từ 源泉徴収票.
 
 Tool đăng kí 確定申告 (có thể free trial 1 tháng): https://biz.moneyforward.com/tax_return/
