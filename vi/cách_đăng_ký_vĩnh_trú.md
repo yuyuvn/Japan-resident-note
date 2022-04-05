@@ -5,6 +5,8 @@
 4. Khi nhập cảnh vào bằng đường dành cho người Nhật. Đây có thể là điểm bất lợi chứ không phải điểm lợi vì thường thì nhập cảnh vào Nhật đông người Nhật hơn người nước ngoài nên phải chờ lâu hơn. 😂 
    Tuy nhiên gần đây Nhật Bản áp dụng hệ thống nhận diện tự động ở sân bay nên nếu được dùng thì sẽ là lợi điểm rõ ràng. (chưa kiểm chứng có được dùng không)
 
+So với người Nhật thì chỉ kém 2 điều: không được bầu cử và phải quay lại Nhật trong vòng 1 năm nếu rời Nhật.
+
 ## 2. Kiểm tra bản thân đủ điều kiện hay không
 Điều kiện đơn giản là:
 + Nộp thuế đầy đủ
