@@ -52,7 +52,7 @@ Vì đây chỉ là dự tính nên đối với công ty không có hại gì d
    Tranh thủ xin luôn giấy chứng nhận lương của năm nay và năm trước. (nhớ nhắn HR ma giáo lương nếu cần 😎)
 4. Xin giấy chứng nhận nghỉ việc （退職証明書）của các công ty cũ, thông tin cần thiết cũng giống như giấy chứng nhận công tác, thêm thông tin thời điểm nghỉ việc.  
 5. Chuẩn bị photo sổ ngân hàng (預貯金通帳)  
-   Nếu không có sổ (dùng MUFG eco chẳng hạn) thì có thể đăng kí để được gửi bản mềm qua mail thông tin trang chủ (Eco通帳（インターネット通帳）申込). Sẽ mất 1 ngày bussiness để nhận.
+   Nếu không có sổ (dùng MUFG eco chẳng hạn) thì có thể lên web đăng kí để được gửi bản mềm qua mail (Eco通帳（インターネット通帳）申込). Sẽ mất 1 ngày bussiness để nhận.
 6. (tùy chọn, không có cũng được). Xin giấy giới thiệu (所属会社，大学，団体等の代表者等が作成した推薦状). Được giới thiệu bởi người càng cơ to thì càng nhanh (tin đồn là thế).  
    Nên đừng ngại mà nhờ hẳn CEO, CTO... cho cái giấy giới thiệu để tăng tốc hồ sơ 😉  
 7. 直近１年分の住民税の課税 lên ku xin. Chú ý là in ở conbini chỉ có bản 2 hoặc 3 năm trước, bản 1 năm trước phải lên ku xin mới có.
