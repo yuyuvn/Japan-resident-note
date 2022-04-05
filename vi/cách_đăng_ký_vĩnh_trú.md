@@ -35,7 +35,7 @@ Thế nào là lương thì không có quy định rõ, nhưng phụ cấp đi l
 Có thể nhắn HR khi làm giấy chứng nhận thu nhập cho năm ngoái gom tất cả các khoản như tiền lót tay chuyển việc, hỗ trợ chuyển nhà, hỗ trợ covid, giới thiệu nhân sự... vào thưởng để tối đa hóa nensyu.
 Các loại thưởng không thường xuyên như MVP các loại cũng có thể gộp hết vào khi tính lương năm ngoái.
 ####  Thu nhập năm nay
-Ngoài khoản lương cứng không chém bậy được được thì có thể nhắn HR chém gió phần dự tính thưởng.  
+Ngoài khoản lương cứng không chém bậy được nhưng có thể nhắn HR chém gió phần dự tính thưởng.  
 Vì đây chỉ là dự tính nên đối với công ty không có hại gì do đó có khả năng HR sẽ hợp tác giúp bạn ma giao thu nhập năm nay.
 
 ## 3. Các giấy tờ cần chuẩn bị và cách lấy được chúng
