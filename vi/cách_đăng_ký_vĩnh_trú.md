@@ -40,7 +40,7 @@ Vì đây chỉ là dự tính nên đối với công ty không có hại gì d
 
 ## 3. Các giấy tờ cần chuẩn bị và cách lấy được chúng
 Đây là các giấy tờ cần cho người nộp theo diện 2 năm liên tiếp trên 80 điểm.
-1. Đầu tiên nên có thẻ mynumber có gắn chip để sử dụng dịch vụ mynumber portal. (không có cũng không sao nhưng sẽ tốn thên 2 tuần).
+1. Đầu tiên nên có thẻ mynumber có gắn chip để sử dụng dịch vụ mynumber portal. (không có cũng không sao nhưng sẽ tốn thêm 2 tuần).
    Đăng kí mynumber portal và liên kết với dịch vụ [ねんきんネット](https://www.nenkin.go.jp/n_net/) 
    Nếu chưa có mynumber thì lên [ねんきんネット](https://www.nenkin.go.jp/n_net/) đăng kí account qua postcard.
 2. Nhờ người bảo lãnh chuẩn bị các giấy tờ sau:
