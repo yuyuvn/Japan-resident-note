@@ -71,8 +71,8 @@ Các giấy tờ còn lại có thể chuẩn bị trong 1 ngày gồm:
 9. Photo bằng FE
 10. Photo bằng đại học và bản dịch (tự dịch tay không cần công chứng)
 11. Photo 2 mặt bằng lái (nếu có). Chả biết có tác dụng gì không nhưng có thì khoe ra không tốn gì 🤣
-12. [Bảng điểm](https://www.moj.go.jp/isa/publications/materials/newimmiact_3_evaluate_index.html) năm nay
-13. [Bảng điểm](https://www.moj.go.jp/isa/publications/materials/newimmiact_3_evaluate_index.html) năm ngoái
+12. [Bảng điểm](https://www.moj.go.jp/isa/publications/materials/newimmiact_3_evaluate_index.html) năm nay - ロ
+13. [Bảng điểm](https://www.moj.go.jp/isa/publications/materials/newimmiact_3_evaluate_index.html) năm ngoái - ロ
 14. [了解書](https://www.moj.go.jp/isa/content/001355579.pdf)
 
 Note: đừng ngu mà dùng lại ảnh làm zairyu cũ, sẽ bị phát hiện là ảnh cũ quá 1 năm (trừ khi zairyu mới làm trong vòng 8 tháng). 🤣
