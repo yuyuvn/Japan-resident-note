@@ -48,6 +48,7 @@ Vì đây chỉ là dự tính nên đối với công ty không có hại gì d
    + Giấy chứng nhận công tác (職業を証明する資料)
    + Ảnh 源泉徴収票 của năm gần nhất hoặc lên kự xin 住民税の課税証明書
    + 住民票 (in ở conbini được, chỉ cần thông tin mynumber)
+   + scan của 1 trong các loại thẻ sau Mynumber Card / 在留カード / Bằng lái xe
 3. Xin công ty giấy chứng nhận công tác (職業を証明する資料). Cần dấu mộc của công ty (mình photo màu mà không bị ý kiến gì, vẫn pass) 😂  
    Trong giấy chứng nhận công tác cần các thông tin sau: Họ tên, ngày sinh của bạn, công việc/vị trí đang làm (engineer chẳng hạn), ngày vào công ty.
    Tranh thủ xin luôn giấy chứng nhận lương của năm nay và năm trước. (nhớ nhắn HR ma giáo lương nếu cần 😎)
@@ -57,6 +58,7 @@ Vì đây chỉ là dự tính nên đối với công ty không có hại gì d
 6. (tùy chọn, không có cũng được). Xin giấy giới thiệu (所属会社，大学，団体等の代表者等が作成した推薦状). Được giới thiệu bởi người càng cơ to thì càng nhanh (tin đồn là thế).  
    Nên đừng ngại mà nhờ hẳn CEO, CTO... cho cái giấy giới thiệu để tăng tốc hồ sơ 😉  
 7. 直近１年分の住民税の課税 lên ku xin. Chú ý là in ở conbini chỉ có bản 2 hoặc 3 năm trước, bản 1 năm trước phải lên ku xin mới có.
+8. 納税証明書 lên 税務署 của nơi sinh sống để xin, có thể hỏi xin ở đâu khi lên ku xin các giấy tờ khác
 
 Đến đây thì xong các giấy tờ cần chờ qua ngày mới lấy được.  
 Các giấy tờ còn lại có thể chuẩn bị trong 1 ngày gồm:  
