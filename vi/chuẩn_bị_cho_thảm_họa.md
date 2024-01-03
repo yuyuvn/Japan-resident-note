@@ -102,6 +102,7 @@ Việc thủ sẵn bánh kẹo đảm bảo nguồn kcal khẩn cấp khi cần 
 
 + [ ] Hộp bánh quy hsd 5 năm Levain: https://www.amazon.co.jp/dp/B07X91T28K
 + [ ] Kẹo sữa hạn dùng 5 năm: https://www.amazon.co.jp/dp/B0BZHF7989
++ [ ] Lương khô 5 năm: https://www.amazon.co.jp/dp/B0BWMXV3R3
 
 ## 12. Bộ băng gạc y tế
 TODO
