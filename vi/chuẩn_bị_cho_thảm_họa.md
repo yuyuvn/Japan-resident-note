@@ -103,12 +103,15 @@ Việc thủ sẵn bánh kẹo đảm bảo nguồn kcal khẩn cấp khi cần 
 + [ ] Hộp bánh quy hsd 5 năm Levain: https://www.amazon.co.jp/dp/B07X91T28K
 + [ ] Kẹo sữa hạn dùng 5 năm: https://www.amazon.co.jp/dp/B0BZHF7989
 
-## 12. App điện thoại
+## 12. Bộ băng gạc y tế
+TODO
+
+## 13. App điện thoại
 App Tokyo bosai bao gồm tất cả thông tin cần thiết, cùng với bản đồ offline (cần vào app và download bản đồ sau khi cài). Bản đồ cũng bao gồm các địa điểm lấy nước tiếp tế.  
 App này cũng cho biết trong 1 số trường hợp (VD vỡ đê sông Arakawa) thì khu vực của mình sẽ ngập bao nhiêu. Tuy vào đó có thể lên plan hợp lí (bỏ chạy hoặc cố sống trong nhà).
 
 + [ ] Tokyo bosai: https://play.google.com/store/apps/details?id=jp.tokyo.metro.tokyotobousaiapp&hl=ja&gl=US
 
-## 13. Xác định khu chứa đồ dự trữ và route thoát thân
+## 14. Xác định khu chứa đồ dự trữ và route thoát thân
 Ngoài đồ dự trữ của bản thân, có khả năng là tòa nhà cũng có kho dự trữ riêng, nên tìm hiểu trước để lúc cần còn biết loot đồ ở đâu :v  
 Trong trường hợp xảy ra hỏa hoạn, có khả năng cửa chính hoặc thang máy không sử dụng được, nên tìm hiểu trước lối thoát hiểm nếu cần.
