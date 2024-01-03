@@ -30,7 +30,7 @@ Bài viết dưới đây sử dụng thông tin như bên dưới, tùy vào nh
 
 ## 1. Nguồn điện
 Thủ sẵn 1 bộ portable battery với tấm Solar panel sẽ đảm bảo nguồn điện tối thiểu để sạc pin điện thoại, phát sáng và hâm nóng thức ăn.  
-Tùy vào nhu cầu, thông thường 1 bộ với 600Wh trở lên (tốt nhất là 900~1000Wh) và tấm solar Panel có thể sạc 100Wh~ là đủ.  
+Tùy vào nhu cầu, thông thường 1 bộ với 600Wh trở lên (tốt nhất là 900 ~ 1000Wh) và tấm solar Panel có thể sạc 100Wh~ là đủ.  
 Chú ý rằng pin cũng có khả năng là nguyên nhân dẫn tới cháy nổ, cho nên cần mua loại có tính năng an toàn cao. (sử dụng công nghệ pin Lithium iron phosphate battery hoặc 半固体リン酸鉄リチウム hoặc solid state battery).
 
 Recommend:  
