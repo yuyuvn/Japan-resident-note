@@ -11,7 +11,7 @@ Trong tình huống xảy ra 1 trong 2 thảm họa trên, sẽ cần tới hơn
 # Những thứ cần chuẩn bị
 Trước khi chuẩn bị, có những tham số cần tìm hiểu trước:
 + Thời gian mắc kẹt tối đa (không kèm tiếp tế) là bao lâu.
-+ Như cần cơ bản như thế nào (có bao nhiêu người,... ).
++ Nhu cần cơ bản như thế nào (có bao nhiêu người,... ).
 + Thời gian bảo quản đồ.
 
 
