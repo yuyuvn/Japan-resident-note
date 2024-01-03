@@ -14,14 +14,23 @@ Trước khi chuẩn bị, có những tham số cần tìm hiểu trước:
 + Như cần cơ bản như thế nào (có bao nhiêu người,... ).
 + Thời gian bảo quản đồ.
 
-Bài viết dưới đây bao gồm những thứ chuẩn bị để sinh tồn trong 7 ngày cho 1 nam, bảo quản trong 5 năm.  
-Tùy vào nhu cầu mỗi người mà có thể điều chỉnh.  
 
 Điều chỉnh thời gian bảo quản ngắn lại (rotate sớm hơn) có thể giúp dễ tìm được đồ ăn rẻ và ngon hơn cũng như ít quên hơn.
 
+Bài viết dưới đây sử dụng thông tin như bên dưới, tùy vào nhu cầu mỗi người mà có thể điều chỉnh.  
++ Thời gian sinh tồn: 1 tuần
++ Nhu cầu mỗi ngày:
+  + 1400 kcal
+  + 2L nước uống
+  + 0.5 lần tắm và gội đầu
+  + 0.3 lần đại tiện
+  + 5 lần tiểu tiện
+  + 300W điện
++ Thời gian bảo quản đồ: 5 năm
+
 ## 1. Nguồn điện
 Thủ sẵn 1 bộ portable battery với tấm Solar panel sẽ đảm bảo nguồn điện tối thiểu để sạc pin điện thoại, phát sáng và hâm nóng thức ăn.  
-Tùy vào nhu cầu, thông thường 1 bộ với 600kWh trở lên (tốt nhất là 900~1000kWh) và tấm solar Panel có thể sạc 100kWh~ là đủ.  
+Tùy vào nhu cầu, thông thường 1 bộ với 600Wh trở lên (tốt nhất là 900~1000Wh) và tấm solar Panel có thể sạc 100Wh~ là đủ.  
 Chú ý rằng pin cũng có khả năng là nguyên nhân dẫn tới cháy nổ, cho nên cần mua loại có tính năng an toàn cao. (sử dụng công nghệ pin Lithium iron phosphate battery hoặc 半固体リン酸鉄リチウム hoặc solid state battery).
 
 Recommend:  
