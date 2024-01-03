@@ -37,7 +37,7 @@ Recommend:
 + EcoFlow RIVER2 Pro: https://www.amazon.co.jp/dp/B0C32YHDQG
 
 Nếu muốn dùng lastest tech có thể xúc Yoshino (tên sặc mùi weebo nhưng đây là công ty Mỹ): https://www.amazon.co.jp/dp/B0CNRQL949  
-Tuy Yoshino dùng công nghệ pin solid state nhưng nó không giống với công nghệ đang hot của Toyota, và giá thì đang gấp đôi công nghệ pin lithium. Nếu chờ thêm vài năng có lẽ sẽ rẻ hơn.
+Tuy Yoshino dùng công nghệ pin solid state nhưng nó không giống với công nghệ đang hot của Toyota, và giá thì đang gấp đôi công nghệ pin lithium. Nếu chờ thêm vài năm có lẽ sẽ rẻ hơn.
 
 Portable battery ngoài việc dùng làm nguồn trữ điện khi thảm họa xảy ra, còn có thể dùng dùng để đi camp, làm bộ UPS cho server/PC hoặc tận dụng solar engergy để tiết kiệm tiền điện. 💰
 
