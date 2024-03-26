@@ -1,7 +1,7 @@
 ## Chế độ miễn giảm thuế
 Nhật Bản hiện tại có chế độ miễn giảm thuế khi bạn vay mua nhà, nếu đủ điều kiện, bạn có thể được hoàn lại kha khá tiền thuế thu nhập (trước khi phải đóng thuế bật động sản vỡ mồm).  
 Bài viết này không bao gồm điều kiện để nhận thuế mà giả định bạn đã đủ điều kiện, cũng giả định bạn không xây mới nhà có thể ở được trăm năm.  
-Bài viết cũng nhắm tới người chưa làm thủ tục hoàn thuế và không có thu nhập ngoài.
+Bài viết cũng nhắm tới người chưa từng làm thủ tục hoàn thuế và không có thu nhập ngoài.
 
 ## Các bước đăng ký nhận giảm thuế vay mua nhà
 Với năm đầu tiên sẽ cần làm thủ tục hoàn thuế cá nhân (確定申告). Trong các năm tiếp theo có thể dùng điều chỉnh cuối năm của công ty là đủ. (年末調整)  
