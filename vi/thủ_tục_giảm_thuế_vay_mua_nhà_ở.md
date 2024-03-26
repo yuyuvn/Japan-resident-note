@@ -11,6 +11,7 @@ Với năm đầu tiên sẽ cần làm thủ tục hoàn thuế cá nhân (確�
   + Giấy chứng nhận hiệu năng tiết kiệm năng lượng của nhà (住宅省エネルギー性能証明書).
   + Giấy đánh giá hiệu năng xây dựng nhà (建設住宅性能評価書). Chú ý là không phải giấy đánh giá thiết kế (設計) mà là giấy đánh giá xây dựng (建設).
     2 loại giấy này có các hạng mục và nội dung  y hệt nhau, chỉ khác nhau đúng 1 từ.
+  
   Trường hợp bạn không có cả 2 loại giấy này thì cần thuê [công ty đánh giá](https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk2_000054.html) để đánh giá và cấp giấy chứng nhận.
 + Giấy chứng nhận vay ngân hàng. (bản gốc)
   Đến gần cuối tháng 12, ngân hàng sẽ gửi giấy chứng nhận vay về cho bạn.
