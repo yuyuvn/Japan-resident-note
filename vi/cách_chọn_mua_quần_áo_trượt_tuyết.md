@@ -21,7 +21,7 @@ Nhìn chung chân không ra nhiều mồ hôi nên không cần quá quan trọn
 + Mục đích phụ: Giữ ấm, giảm chấn khi va chạm.
 
 Recommend:
-Quần [Uniqlo heattech lửng](https://www.uniqlo.com/jp/ja/products/E474148-000/00?colorDisplayCode=08&sizeDisplayCode=004)
++ Quần [Uniqlo heattech lửng](https://www.uniqlo.com/jp/ja/products/E474148-000/00?colorDisplayCode=08&sizeDisplayCode=004)
 
 Nếu trời nắng đẹp có thể thay bằng lớp áo của đệm bảo hộ.
 
@@ -62,15 +62,15 @@ Vì phần cuối của tất chắc chắn phải có lớp chun để tất kh
 
 ## Áo middle layer
 + Mục đích chính: Giữ ấm
++ Mục đích phụ: Chứa đệm bảo hộ
 
 Recommend:
 + [Uniqlo ultra light down Jacket](https://www.uniqlo.com/jp/ja/products/E470067-000/00?colorDisplayCode=69&sizeDisplayCode=004)
-+ [Áo fleece](https://www.uniqlo.com/jp/ja/products/E470641-000/00?colorDisplayCode=08) các loại
 + [Oros Horizon Quarter Zip](https://oros-japan.com/en/collections/mens-tops/products/horizon-quarter-zip-2024)
-
-Nếu trời nắng đẹp có thể thay bằng lớp áo của đệm bảo hộ.
++ [ARK SS Body Protector](https://amzn.asia/d/aN8i4PZ)
 
 Các tiêu chí chọn: (ưu tiên từ cao xuống thấp)  
++ Chất lượng lớp đệm
 + Khả năng giữ ấm
 + Nhẹ
 + Mỏng
@@ -107,13 +107,6 @@ Các tiêu chí chọn:
 + Chống UV
 + Thay được mắt kính
 + Làm gương cho bạn bè soi :3
-
-## Đệm bảo hộ
-Lớp đệm giúp hấp thụ lực khi va chạm
-
-Các tiêu chí chọn: 
-+ Đệm ở các vị trí dễ va chạm khi ngã như đầu gối, mông, vai, khủy tay.
-+ Đệm càng dầy càng tốt.
 
 ## Găng tay
 + Mục đích chính: Giữ ấm tay. Chống gió, chống tuyết. Giảm tác động lên tay khi có va chạm. Chống rách tay khi cầm ván (tương đối sắc).
