@@ -3,8 +3,7 @@
 2. Có thể làm tất cả mọi ngành nghề. Ví dụ tự mở công ty riêng cũng được, không cần visa kinh doanh nên có thể mở công ty mà không cần 500man vốn điều lệ.
 3. Có thể vay ngân hàng dễ dàng tương đương với người Nhật. Đây là lợi ích lớn nhất của vĩnh trú so với visa chất lượng cao.
    Ví dụ có thể vay mua nhà mà không mất 1 đồng trả trước nào, với lãi suất thấp. So với visa chất lượng cao vẫn phải bỏ ra 20% + phí trước bạ mà lãi suất lại cao hơn.
-4. Khi nhập cảnh vào bằng đường dành cho người Nhật. Đây có thể là điểm bất lợi chứ không phải điểm lợi vì thường thì nhập cảnh vào Nhật đông người Nhật hơn người nước ngoài nên phải chờ lâu hơn. 😂 
-   Tuy nhiên gần đây Nhật Bản áp dụng hệ thống nhận diện tự động ở sân bay nên nếu được dùng thì sẽ là lợi điểm rõ ràng. (chưa kiểm chứng có được dùng không)
+4. ~Khi nhập cảnh vào bằng đường dành cho người Nhật. Đây có thể là điểm bất lợi chứ không phải điểm lợi vì thường thì nhập cảnh vào Nhật đông người Nhật hơn người nước ngoài nên phải chờ lâu hơn. 😂~ Nhật Bản đã chuyển qua hệ thống nhập cảnh tự động bằng cách scan passport, hiện tại phụ thuộc vào passport nên có vĩnh trú vẫn phải ra khu cho người nước ngoài.
 
 So với người Nhật thì chỉ kém 2 điều: không được bầu cử và phải quay lại Nhật trong vòng 1 năm nếu rời Nhật.
 
