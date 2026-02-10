@@ -35,17 +35,17 @@ Nên sử dụng các loại thẻ có dữ liệu nhanh như thẻ Kyash, chứ
 1. Lên myportal vào phần Advance Preparation of Final Tax Returns rồi liên kết hết các loại có thể loại có thể liên kết được.
 2. Lên [Moneyforward](https://erp.moneyforward.com/) xúc 1 gói personal mini (dùng xong thì 解約 luôn)
 3. Lên [Moneyforward accounting](https://accounting.moneyforward.com/) khởi tạo 年度, xong vào 20XX年度確定申告
-4. Nhập thông tin cơ bản, phần 申告区分 nhớ chọn 青色申告. Phần 提出方法 chọn スマホアプリで提出（電子申告）. Phần 青色申告特別控除 chọn 65万円.
+4. Nhập thông tin cơ bản, phần 申告区分 nhớ chọn 青色申告. Phần 提出方法 chọn スマホアプリで提出（電子申告）. Phần 青色申告特別控除 chọn 65万円.  
   Lần đầu có thể cần vào etax lấy mã số thuế để điền.
 5. Mở app điện thoại Moneyforward tax-return ra, chọn liên kết MF ME rồi lấy data từ MF ME.
-6. Nếu có mua đồ trên 10man thì vào [固定資産](https://accounting.moneyforward.com/fixed_assets/new) đăng kí.
-  1 năm có thể có 1 đồ trị giá 10万〜30万円 có thể chọn 償却方法: 即時償却, phần 今期償却額 điền luôn giá tiền.
-  Đối với đồ khác (trên 30万 hoặc đồ thứ 2 trên 10万) thì chọn 一括償却. Phần 今期償却額 tính bằng (giá tiền)/耐用年数/12*(số tháng sử dụng trong năm). (chả biết sao con app này ko tính hộ cho luôn).
-  Tạo xong là sẽ thấy có 仕訳 tự động được đẻ ra. Với những đồ 一括償却 thì năm sau sẽ tự đẻ tiếp 仕訳.
-7. Vào [家事按分](https://accounting.moneyforward.com/home_devotes), tạo 水道光熱費 và 地代家賃 (nếu thuê nhà). Chọn tỉ lệ 50%. Chọn xong ấn 一括仕訳登録.
+6. Nếu có mua đồ trên 10man thì vào [固定資産](https://accounting.moneyforward.com/fixed_assets/new) đăng kí.  
+  1 năm có thể có 1 đồ trị giá 10万〜30万円 có thể chọn 償却方法: 即時償却, phần 今期償却額 điền luôn giá tiền.  
+  Đối với đồ khác (trên 30万 hoặc đồ thứ 2 trên 10万) thì chọn 一括償却. Phần 今期償却額 tính bằng `(giá tiền)/耐用年数/12*(số tháng sử dụng trong năm)`. (chả biết sao con app này ko tính hộ cho luôn).  
+  Tạo xong là sẽ thấy có 仕訳 tự động được đẻ ra. Với những đồ 一括償却 thì năm sau sẽ tự đẻ tiếp 仕訳.  
+7. Vào [家事按分](https://accounting.moneyforward.com/home_devotes), tạo 水道光熱費 và 地代家賃 (nếu thuê nhà). Chọn tỉ lệ 50%. Chọn xong ấn 一括仕訳登録.  
   Tới đây là xong phần khai báo 青色申告 để đủ điều kiện khấu trừ thuế 65万円. Tiếp đó là làm 確定申告 như bình thường.
-8. Vào liên kết với mynumber, điền nốt phần dữ liệu chưa được liên kết.
-  Nếu không lấy được thông tin furusato từ mynumber thì tự lên trang shop down file xml về up lên là được.
+8. Vào liên kết với mynumber, điền nốt phần dữ liệu chưa được liên kết.  
+  Nếu không lấy được thông tin furusato từ mynumber thì tự lên trang shop down file xml về up lên là được.  
   Tương lai thì chắc liên kết mynumber là sẽ đồng bộ được hết dữ liệu từ 源泉所得, y tế, furusato, vay mua nhà, bảo hiểm, shoken,... etc nên chả phải điền gì nữa.
 9. Xong thì mở app Moneyforward tax-return ra bấm submit tax-return là xong.
 
