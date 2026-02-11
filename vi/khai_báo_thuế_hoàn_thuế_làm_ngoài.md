@@ -1,7 +1,7 @@
 # Cách khai báo hoàn thuế cho người làm thêm bằng Moneyforward
 
 ## 1. Các công việc cần làm khi bắt đầu làm thêm
-+ Đăng kí thẻ mynumber
++ Đăng kí thẻ mynumber gắn chip
 + Đăng kí 個人事業
   + Sau khi đăng kí sẽ được nhận giấy chứng nhận mở 事業 có đóng dấu, ko phát lại và giấy này sẽ còn dùng trong chương sau, nên scan luôn 1 bản mềm phòng thân.
 + Đăng kí 青色申告承認申請書
