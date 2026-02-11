@@ -32,7 +32,7 @@ Chú ý là chi phí ăn phải chọn nomikai, nếu chọn mục ăn uống s�
 Nên sử dụng các loại thẻ có dữ liệu nhanh như thẻ Kyash, chứ dùng thẻ credit thường phải 3 ngày mới có data thì dễ quên.
 
 ## 3. Khai báo thuế
-1. Lên myportal vào phần Advance Preparation of Final Tax Returns rồi liên kết hết các loại có thể loại có thể liên kết được.
+1. Lên myportal vào phần Advance Preparation of Final Tax Returns rồi liên kết hết các thể loại có thể liên kết được.
 2. Lên [Moneyforward](https://erp.moneyforward.com/) xúc 1 gói personal mini (dùng xong thì 解約 luôn)
 3. Lên [Moneyforward accounting](https://accounting.moneyforward.com/) khởi tạo 年度, xong vào 20XX年度確定申告
 4. Nhập thông tin cơ bản, phần 申告区分 nhớ chọn 青色申告. Phần 提出方法 chọn スマホアプリで提出（電子申告）. Phần 青色申告特別控除 chọn 65万円.  
