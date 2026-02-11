@@ -18,7 +18,7 @@ Mỗi khi tiêu cần làm 2 thao tác cho giao dịch:
 <img width="922" height="2048" alt="image" src="https://github.com/user-attachments/assets/f504a44c-f401-4204-a4c8-b43a2ce371ab" />
 
 Các category nên sử dụng:
-| Mục đích | MF ME Category | 仕分け項目 (tự động map_ |
+| Mục đích | MF ME Category | 仕分け項目 (tự động map) |
 | --- | --- | --- |
 | Đi ăn uống với người khác | 飲み会 | 接待交際費 |
 | Mua đồ liên quan tới công việc | 特別な支出 | 消耗品費 |
