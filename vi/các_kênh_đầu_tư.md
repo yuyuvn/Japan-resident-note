@@ -7,11 +7,8 @@ Note: các link đăng kí ở đây có thể kèm mã refer, nếu sử dụng
 
 ## Các chế độ miễn giảm thuế khi đầu tư
 ### NISA
-Mỗi người có thể đăng kí tối đa 1 tài khoản NISA. NISA hiện tại gồm 2 loại tsumitate NISA và NISA thường.  
-Với NISA thường, bạn có thể đầu tư (mua vào) tối đa 120man/năm và phải chốt lãi/lỗ trong vòng 5 năm cho khoản đầu tư đó. Nếu có lãi thì toàn bộ chỗ lãi đó sẽ được miễn thuế. Tiền cổ tức cũng được miễn thuế luôn. (giới hạn 600man).  
-Với Tsumitate NISA, bạn có thể đầu tư tối đa 40man/năm và phải chốt lãi/lỗ trong vòng 20 năm cho khoản đầu tư đó. Nếu có lãi thì toàn bộ chỗ lãi đó sẽ được miễn thuế. Tiền cổ tức cũng được miễn thuế luôn. (giới hạn 800man).  
-Với Tsumitate NISA thì bạn chỉ có thể đầu tư vào các tổ chức tài chính được công nhận (投資信託). Còn với NISA thì có thể dùng cho cả cổ phiếu trong và ngoài nước cũng như các 投資信託.  
-Từ năm 2024, chỉnh phủ Nhật Bản thay thế 2 loại NISA trên bằng loại NISA mới, bạn có thể đầu tư tối đa 360man/năm không giới hạn thời điểm chốt lãi lỗ. 
+Mỗi người có thể đăng kí tối đa 1 tài khoản NISA.  
+Từ năm 2024, bạn có thể đầu tư tối đa 360man/năm không giới hạn thời điểm chốt lãi lỗ. (120man chỉ được mua đầu tư uỷ thác hàng tháng và 240man mua tự do hơn).  
 Nếu chưa có tài khoản NISA, bạn nên đăng kí trước để chuẩn bị cho NISA mới. Cách đăng kí sẽ được viết trong các phần bên dưới.
 
 ### iDeco/401K
@@ -35,7 +32,7 @@ Trường hợp bạn hay đi ăn nhậu và trả bằng point, nhận về 1 l
 
 ## Đầu tư cổ phiếu, trái phiếu, ETF, FX, Reit, CFD, đầu tư ủy thác...
 Để tham gia vào các kênh đầu tư này, bạn cần tạo tài khoản Shoken, thông thường thì đều giống nhau cả, chỉ khác giao diện, phí giao dịch. Không phải tất cả shoken đều mua được lượng ETF giống nhau.  
-Có 2 shoken thường được recommend cho người mới chơi là [Rakuten Shoken](https://www.rakuten-sec.co.jp/) và [SBI shoken](https://www.sbisec.co.jp/).  
+Có 2 shoken thường được recommend cho người mới chơi là [Rakuten Shoken](https://www.rakuten-sec.co.jp/) và [SBI shoken](https://www.sbisec.co.jp/). SBI dạo này hơi ngu nên ko recommend lắm.  
 Rakuten shoken đăng kí khá dễ dàng, hỗ trợ eKYC nên bạn không cần phải gửi bất kì giấy tờ gì tới rakuten, mọi thủ tục đều trên điện thoại. Tuy nhiên bạn cần nhận được 1 postcard từ rakuten gửi tới nhà trước khi bắt đầu sử dụng được.  
 SBI thì hỗ trợ nhiều sản phẩm hơn, đặc biệt có thể mua được cổ phiếu ở Việt Nam luôn.  Sử dụng SBI còn 1 điểm lợi là có thể gửi ngoại tệ (cụ thể là USD) trực tiếp sang neo-bank. (thông thường với các shoken bạn chỉ có thể rút JPY hoặc phải contact với con người mới rút được tiền bằng ngoại tệ). Tuy nhiên không rút USD trực tiếp từ neo-bank sang tài khoản ở ngoài Nhật Bản được.  
 Việc tạo tài khoản Shoken là miễn phí và cũng không mất tiền hội viên nên bạn nên tạo sớm để có thể nhanh chóng luân chuyển tiền khi có cơ hội tới.  
@@ -75,4 +72,4 @@ Nếu không có nhiều tiền nhưng vẫn thích đầu tư bất động s�
 
 ## Cá độ đua ngựa, cá độ thể thao, pachinko
 Nếu thích risk hơn nữa thì có thể trải nhiệm thử các món này, nó không bị cấm như ở Việt Nam.
-Với cá độ thể thao thì có thể sử dụng [bet365](https://www.bet365.com/) (dịch vụ của Mỹ và chưa kiểm tra xem có được công nhận ở Nhật không).
+Với cá độ thì có thể sử dụng [polymarket](https://polymarket.com/) (chưa được công nhận ở Nhật nhưng các kênh media, giới phân tích chính thống vẫn dùng nên dự là về sau sẽ được công nhận).
