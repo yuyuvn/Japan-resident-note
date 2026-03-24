@@ -17,8 +17,9 @@ So với người Nhật thì chỉ kém 2 điều: không được bầu cử v
 ### Cách tính điểm nhanh
 Với 1 HEDSPIer tiêu chuẩn (tốt nghiệp BK, có bằng FE, N2, thu nhập 500man, 3 năm kinh nghiệm, dưới 30 tuổi) thì sẽ đạt 70 điểm.  
 Có bằng N1 +5 điểm.  
-Cứ thêm 100man thu nhập thì +5 điểm.  
-5 năm kinh nghiệm thì +5 điểm, trên 30 tuổi -5 điểm (nên thường bù trừ nhau).  
+Cứ thêm 100 man thu nhập thì +5 điểm.  
+5 năm kinh nghiệm thì +5 điểm.  
+７ năm kinh nghiệm + 5 và trên 30 tuổi -5 điểm (nên thường bù trừ nhau).  
 
 Có thể sử dụng giấy chứng nhận điểm khi làm visa chất lượng cao để bớt giấy tờ chứng nhận điểm năm ngoái.  
 Nhưng không cần đang là visa chất lượng cao cũng có thể đăng kí vĩnh trú bằng điểm được. (sẽ cần giấy tờ để chứng minh điểm của năm ngoái hoặc 3 năm trước)
