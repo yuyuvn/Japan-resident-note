@@ -55,7 +55,7 @@ Vì đây chỉ là dự tính nên đối với công ty không có hại gì d
 6. (tùy chọn, không có cũng được). Xin giấy giới thiệu (所属会社，大学，団体等の代表者等が作成した推薦状). Được giới thiệu bởi người càng cơ to thì càng nhanh (tin đồn là thế).  
    Nên đừng ngại mà nhờ hẳn CEO, CTO... cho cái giấy giới thiệu để tăng tốc hồ sơ 😉  
 7. 直近１年分の住民税の課税 lên ku xin. Chú ý là in ở conbini chỉ có bản 2 hoặc 3 năm trước, bản 1 năm trước phải lên ku xin mới có.
-8. 納税証明書 ~lên 税務署 của nơi sinh sống để xin, có thể hỏi xin ở đâu khi lên ku xin các giấy tờ khác~.
+8. 納税証明書 ~lên 税務署 của nơi sinh sống để xin, có thể hỏi xin ở đâu khi lên ku xin các giấy tờ khác~.  
   Update: 納税証明書 bây giờ có thể xin được từ etax. (đăng kí gửi về bưu điện) Có bản pdf nhưng chưa confirm có thể tự in được không.
 
 Đến đây thì xong các giấy tờ cần chờ qua ngày mới lấy được.  
