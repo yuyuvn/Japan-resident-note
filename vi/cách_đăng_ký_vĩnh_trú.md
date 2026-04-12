@@ -64,7 +64,7 @@ Các giấy tờ còn lại có thể chuẩn bị trong 1 ngày gồm:
 3. 住民票　in ở conbini hoặc lên ku xin, chỉ cần thông tin mynumber
 4. 源泉所得税 nếu dùng smartHR thì in ra là được.
 5. Lên [ねんきんネット](https://www.nenkin.go.jp/n_net/) in phần 各月の年金記録 (nhớ in đủ hết các năm)
-6. Photo 2 mặt bảo hiểm sức khỏe
+6. Photo 2 mặt bảo hiểm sức khỏe hoặc lên myportal -> [健康保険証](https://myna.go.jp/certificates/health-insurance-card) -> 資格情報をPDFで保存
 7. Photo 2 mặt 在留カード
 8. Photo bằng JLPT
 9. Photo bằng FE
