@@ -45,10 +45,7 @@ Vì đây chỉ là dự tính nên đối với công ty không có hại gì d
    Nếu chưa có mynumber thì lên [ねんきんネット](https://www.nenkin.go.jp/n_net/) đăng kí account qua postcard.
 2. Nhờ người bảo lãnh chuẩn bị các giấy tờ sau:
    + [身元保証書](https://www.moj.go.jp/isa/content/930002536.pdf)
-   + Giấy chứng nhận công tác (職業を証明する資料)
-   + Ảnh 源泉徴収票 của năm gần nhất hoặc lên kự xin 住民税の課税証明書
-   + 住民票 (in ở conbini được, chỉ cần thông tin mynumber)
-   + scan của 1 trong các loại thẻ sau Mynumber Card / 在留カード / Bằng lái xe (nếu người bảo lãnh không phải người Nhật)
+   + Scan của 1 trong các loại thẻ sau Mynumber Card hoặc Bằng lái xe nếu người bảo lãnh là người Nhật và 在留カード nếu không phải người Nhật.
 3. Xin công ty giấy chứng nhận công tác (職業を証明する資料). Cần dấu mộc của công ty (mình photo màu mà không bị ý kiến gì, vẫn pass) 😂  
    Trong giấy chứng nhận công tác cần các thông tin sau: Họ tên, ngày sinh của bạn, công việc/vị trí đang làm (engineer chẳng hạn), ngày vào công ty.
    Tranh thủ xin luôn giấy chứng nhận lương của năm nay và năm trước. (nhớ nhắn HR ma giáo lương nếu cần 😎)
