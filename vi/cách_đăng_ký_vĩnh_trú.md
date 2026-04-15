@@ -62,7 +62,7 @@ Vì đây chỉ là dự tính nên đối với công ty không có hại gì d
 Các giấy tờ còn lại có thể chuẩn bị trong 1 ngày gồm:  
 1. [永住許可申請書](https://www.moj.go.jp/isa/content/930002836.xls)
 2. [理由書](https://docs.google.com/document/d/1-ZmF3O-l-pkEhxecUyOPmOcQ4Mu0Mxqy/edit?usp=sharing&ouid=114885113589833778776&rtpof=true&sd=true)
-3. 住民票　in ở conbini hoặc lên ku xin, chỉ cần thông tin mynumber
+3. 住民票　in ở conbini hoặc lên ku xin, tích tất cả thông tin trừ mynumber
 4. 源泉所得税 nếu dùng smartHR thì in ra là được.
 5. Lên [ねんきんネット](https://www.nenkin.go.jp/n_net/) in phần 各月の年金記録 (nhớ in đủ hết các năm)
 6. Photo 2 mặt bảo hiểm sức khỏe hoặc lên myportal -> [健康保険証](https://myna.go.jp/certificates/health-insurance-card) -> 資格情報をPDFで保存
