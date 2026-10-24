@@ -1,5 +1,5 @@
 Hằng năm, IT kenpo hỗ trợ tối đa 1man cho 1 chuyến du lịch. Bài viết này hướng dẫn những người sử dụng bảo hiểm sức khỏe IT kenpo để nhận hỗ trợ này.
-1 năm được tính từ 
+1 năm được tính từ mồng 1 tháng 4 tới 31 tháng 3 năm sau. (tức là có thể nhận hỗ trợ cho chuyến du lịch tháng 3 và tháng 4 trong cùng 1 năm)
 
 ## 1. Xác nhận bản thân có đang sử dụng bảo hiểm sức khỏe IT kenpo
 Lên [myportal](https://myna.go.jp/) -> `健康保険証` -> `保険者名` nếu là `関東ＩＴソフトウェア健康保険組合` tức là bạn đã tham gia bảo hiểm sức khỏe của IT kenpo.
